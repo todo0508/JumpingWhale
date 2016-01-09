@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCBool.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCInteger.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/platform/ios/CCStdC.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/platform/CCCommon.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCFloat.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCDouble.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCString.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCDictionary.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/uthash.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/deprecated/CCSet.h

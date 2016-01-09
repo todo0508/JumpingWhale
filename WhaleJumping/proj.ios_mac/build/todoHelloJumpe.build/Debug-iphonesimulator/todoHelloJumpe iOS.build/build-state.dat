@@ -1,0 +1,1547 @@
+TtodoHelloJumpe iOS
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Info.plist /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist
+cCpResource ios/Icon-120.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-120.png
+cCpResource ios/Icon-76.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-76.png
+cCpResource ios/Default@2x.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default@2x.png
+cCpResource ios/Icon-100.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-100.png
+cCpResource /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseNormal.png
+cCpResource ios/Icon-152.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-152.png
+cCpResource ios/Default-568h@2x.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default-568h@2x.png
+cCpResource ios/Icon-72.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-72.png
+cCpResource /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseSelected.png
+cCpResource ios/Icon-50.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-50.png
+cCpResource ios/Icon-114.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-114.png
+cCpResource /Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/HelloWorld.png
+cCpResource ios/Icon-29.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-29.png
+cCpResource ios/Icon-40.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-40.png
+cCpResource ios/Icon-144.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-144.png
+cCpResource ios/Icon-80.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-80.png
+cCpResource ios/Icon-57.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-57.png
+cCpResource ios/Default.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default.png
+cCpResource ios/Icon-58.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-58.png
+cProcessPCH++ /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS normal i386
+cGenerateDSYMFile /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app.dSYM /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS
+cTouch /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000533B9FAA0000000000484210
+t1396416426
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000533B9FAC0000000000904120
+t1396416428
+s9453856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000533B9FB1000000000007C0D0
+t1396416433
+s508112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533B9FB10000000000037680
+t1396416433
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533B9FB2000000000048F720
+t1396416434
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c00000000533B9FDA000000000002B700
+t1396416474
+s177920
+
+N/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp
+c00000000542172C10000000000000556
+t1411478209
+s1366
+
+N/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp
+c00000000542172C10000000000000AAD
+t1411478209
+s2733
+
+N/Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png
+c00000000542172C200000000000018A7
+t1411478210
+s6311
+
+N/Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png
+c00000000542172C2000000000000157B
+t1411478210
+s5499
+
+N/Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png
+c00000000542172C20000000000021E19
+t1411478210
+s138777
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libCocosDenshion iOS.a
+c000000005421744F0000000000055218
+t1411478607
+s348696
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libbox2d iOS.a
+c000000005421744D00000000001CE990
+t1411478605
+s1894800
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libchipmunk iOS.a
+c000000005421738A00000000000BF0E8
+t1411478410
+s782568
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libcocos2dx iOS.a
+c000000005421743800000000119335E8
+t1411478584
+s294860264
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libcocos2dx-extensions iOS.a
+c00000000542174490000000001A38E00
+t1411478601
+s27495936
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app
+t1411478620
+s816
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app.dSYM
+t2
+s0
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/CloseNormal.png
+t1411478607
+s6311
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/CloseSelected.png
+t1411478607
+s5499
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default-568h@2x.png
+t1411478607
+s193731
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default.png
+t1411478607
+s89508
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default@2x.png
+t1411478607
+s580904
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/HelloWorld.png
+t1411478607
+s138777
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-100.png
+t1411478607
+s17283
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-114.png
+t1411478607
+s16537
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-120.png
+t1411478607
+s23871
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-144.png
+t1411478607
+s26403
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-152.png
+t1411478607
+s33665
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-29.png
+t1411478607
+s4038
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-40.png
+t1411478607
+s5478
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-50.png
+t1411478607
+s7038
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-57.png
+t1411478607
+s8960
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-58.png
+t1411478607
+s8433
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-72.png
+t1411478607
+s11453
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-76.png
+t1411478607
+s13250
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-80.png
+t1411478607
+s12489
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Info.plist
+t1411478607
+s1172
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/PkgInfo
+t1411478607
+s8
+
+N/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/todoHelloJumpe iOS
+t1411478620
+s8901488
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/AppController.o
+t1411478612
+s1378492
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/AppDelegate.o
+t1411478612
+s1574040
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/HelloWorldScene.o
+t1411478612
+s1989072
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/RootViewController.o
+t1411478612
+s1608220
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/main.o
+t1411478608
+s4084
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/todoHelloJumpe iOS.LinkFileList
+c000000005421744F0000000000000326
+t1411478607
+s806
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm
+c00000000542172C1000000000000164C
+t1411478209
+s5708
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Default-568h@2x.png
+c00000000542172C1000000000002F4C3
+t1411478209
+s193731
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Default.png
+c00000000542172C10000000000015DA4
+t1411478209
+s89508
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Default@2x.png
+c00000000542172C1000000000008DD28
+t1411478209
+s580904
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-100.png
+c00000000542172C10000000000004383
+t1411478209
+s17283
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-114.png
+c00000000542172C10000000000004099
+t1411478209
+s16537
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-120.png
+c00000000542172C10000000000005D3F
+t1411478209
+s23871
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-144.png
+c00000000542172C10000000000006723
+t1411478209
+s26403
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-152.png
+c00000000542172C10000000000008381
+t1411478209
+s33665
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-29.png
+c00000000542172C10000000000000FC6
+t1411478209
+s4038
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-40.png
+c00000000542172C10000000000001566
+t1411478209
+s5478
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-50.png
+c00000000542172C10000000000001B7E
+t1411478209
+s7038
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-57.png
+c00000000542172C10000000000002300
+t1411478209
+s8960
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-58.png
+c00000000542172C100000000000020F1
+t1411478209
+s8433
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-72.png
+c00000000542172C10000000000002CBD
+t1411478209
+s11453
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-76.png
+c00000000542172C100000000000033C2
+t1411478209
+s13250
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-80.png
+c00000000542172C100000000000030C9
+t1411478209
+s12489
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist
+c00000000542172C100000000000007B2
+t1411478209
+s1970
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch
+c00000000542172E600000000000000B5
+t1411478246
+s181
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm
+c00000000542172C10000000000000E51
+t1411478209
+s3665
+
+N/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m
+c00000000542172E600000000000000F2
+t1411478246
+s242
+
+N/var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch
+t1411478607
+s123088
+
+N/var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch
+t1411478608
+s6317736
+
+N/var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch
+t1411478608
+s5369932
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies66dac2cfabd1b941^bb25c5cfabd1b941^---0#1#1#--18"Check dependencies36"C00A5CF2-FE27-40EB-8294-98C9B7FEF6B0-
+
+CCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433171408.601595
+e433171412.258295
+r1
+xCompileC
+xbuild/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/AppController.o
+x/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCEAGLView.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCESRenderer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCPlatformDefine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/cocos2d.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRef.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRefPtr.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConsole.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCStdC.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCVector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCNS.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCGeometry.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMath.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMathBase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCValue.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccTypes.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGL.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConfiguration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDirector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListener.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEvent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScriptSupport.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCCommon.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProtocols.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTexture2D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCAffineTransform.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccGLStateCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCQuadCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramState.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommandPool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScheduler.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/uthash.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/base64.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ZipUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProfiling.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUTF8.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCUserDefault.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDelegate.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventType.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCVertex.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimation.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionManager.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionEase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTween.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCCustomCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabel.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCBatchCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgram.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCScene.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransition.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenu.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGroupCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSprite.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCImage.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCString.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrabber.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShaders.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCDevice.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCFileUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCSAXParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCThread.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCApplication.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCApplicationProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGLView.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCGLViewProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCMeshCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMesh.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCBundle3DData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMeshSkin.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimate3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimation3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3DMaterial.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/Export.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCSet.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCBool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.h
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm226"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler6b659ad0abd1b941^664b42d4abd1b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm0000000000000000^4928"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.o [1mios/AppController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -include /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch -MMD -MT dependencies -MF /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.d --serialize-diagnostics /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.dia -c /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/AppController.mm -o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppController.o36"E6020D17-26DC-40C8-BE2C-1F49606B1CB3-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433171408.603721
+e433171412.260386
+r1
+xCompileC
+xbuild/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/AppDelegate.o
+x/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp
+d/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/cocos2d.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRef.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCPlatformDefine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRefPtr.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConsole.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCStdC.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCVector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCNS.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCGeometry.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMath.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMathBase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCValue.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccTypes.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGL.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConfiguration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDirector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListener.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEvent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScriptSupport.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCCommon.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProtocols.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTexture2D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCAffineTransform.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccGLStateCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCQuadCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramState.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommandPool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScheduler.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/uthash.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/base64.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ZipUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProfiling.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUTF8.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCUserDefault.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDelegate.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventType.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCVertex.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimation.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionManager.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionEase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTween.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCCustomCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabel.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCBatchCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgram.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCScene.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransition.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenu.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGroupCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSprite.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCImage.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCString.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrabber.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShaders.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCDevice.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCFileUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCSAXParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCThread.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCApplication.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCApplicationProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGLView.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCGLViewProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCMeshCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMesh.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCBundle3DData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMeshSkin.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimate3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimation3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3DMaterial.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/Export.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCSet.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCBool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp256"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler035d9bd0abd1b941^caa842d4abd1b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp0000000000000000^4695"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.o [1m/Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -include /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch -MMD -MT dependencies -MF /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.dia -c /Users/hiroki/Documents/todoHelloJumpe/Classes/AppDelegate.cpp -o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/AppDelegate.o36"9B30C9F7-053F-4861-85A1-614EBEF2C65E-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433171408.775143
+e433171412.583846
+r1
+xCompileC
+xbuild/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp
+d/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/cocos2d.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRef.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCPlatformDefine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRefPtr.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConsole.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCStdC.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCVector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCNS.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCGeometry.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMath.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMathBase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCValue.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccTypes.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGL.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConfiguration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDirector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListener.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEvent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScriptSupport.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCCommon.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProtocols.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTexture2D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCAffineTransform.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccGLStateCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCQuadCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramState.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommandPool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScheduler.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/uthash.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/base64.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ZipUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProfiling.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUTF8.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCUserDefault.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDelegate.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventType.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCVertex.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimation.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionManager.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionEase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTween.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCCustomCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabel.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCBatchCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgram.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCScene.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransition.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenu.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGroupCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSprite.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCImage.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCString.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrabber.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShaders.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCDevice.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCFileUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCSAXParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCThread.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCApplication.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCApplicationProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGLView.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCGLViewProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCMeshCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMesh.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCBundle3DData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMeshSkin.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimate3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimation3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3DMaterial.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/Export.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCSet.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCBool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp264"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler45a0c6d0abd1b941^077995d4abd1b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp0000000000000000^4719"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.o [1m/Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -include /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch -MMD -MT dependencies -MF /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.d --serialize-diagnostics /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.dia -c /Users/hiroki/Documents/todoHelloJumpe/Classes/HelloWorldScene.cpp -o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/HelloWorldScene.o36"E2F35039-D574-4AE7-AA21-E5A611AA089D-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433171408.602664
+e433171412.307836
+r1
+xCompileC
+xbuild/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/cocos2d.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRef.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCPlatformDefine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCRefPtr.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccMacros.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConsole.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCStdC.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCVector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCNS.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCGeometry.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMath.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCMathBase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec2.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec3.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Vec4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Mat4.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/Quaternion.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCValue.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccTypes.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGL.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCConfiguration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDirector.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListener.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEvent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScriptSupport.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCCommon.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProtocols.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTexture2D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCAffineTransform.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccGLStateCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCQuadCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramState.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderCommandPool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCScheduler.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/uthash.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/base64.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ZipUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCProfiling.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUTF8.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCUserDefault.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDelegate.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCIMEDispatcher.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventType.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerTouch.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerKeyboard.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventMouse.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerAcceleration.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerCustom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCEventListenerFocus.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/MathUtil.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/math/CCVertex.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimation.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionManager.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionEase.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionTween.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCCustomCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLabel.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCBatchCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgram.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFont.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCScene.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransition.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenu.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGroupCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSprite.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCImage.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCString.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/ccCArray.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrabber.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCGrid.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCRenderer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCGLProgramCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShaders.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCTextureCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCDevice.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCFileUtils.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCSAXParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCThread.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCApplication.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCApplicationProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCGLView.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/CCGLViewProtocol.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXTiledMap.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCFastTMXLayer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponent.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/CCMeshCommand.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMesh.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCBundle3DData.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCMeshSkin.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimate3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimation3D.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCAnimationCurve.inl
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/3d/CCSprite3DMaterial.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/audio/include/Export.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCSet.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCBool.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/deprecated/CCDeprecated.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCEAGLView.h
+d/Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/platform/ios/CCESRenderer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm236"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilera4a99ad0abd1b941^85cf4ed4abd1b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm0000000000000000^4958"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.o [1mios/RootViewController.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -include /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch -MMD -MT dependencies -MF /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.dia -c /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/RootViewController.mm -o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/RootViewController.o36"DDE4D40A-70F2-4C46-88DC-20DC7E59697D-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCompileC build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433171408.605335
+e433171408.774730
+r1
+xCompileC
+xbuild/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/main.o
+x/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m205"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera54b9bd0abd1b941^f8a9c6d0abd1b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m0000000000000000^4743"[1mCompileC[0m build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.o [1mios/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -include /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch -MMD -MT dependencies -MF /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.dia -c /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/main.m -o /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/main.o36"E0778548-40A7-43B6-AC9E-337618BE3642-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseNormal.png
+s433171407.845192
+e433171407.867511
+r1
+xCpResource
+x/Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/CloseNormal.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/CloseNormal.png184"[1mCpResource[0m /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseNormal.png[0m66bdd8cfabd1b941^ba15decfabd1b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/CloseNormal.png0034e4a4dfffdf42^1142"[1mCpResource[0m /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseNormal.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseNormal.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"14F1F9B2-C760-4D54-B0A4-DA83DBD84A22-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseSelected.png
+s433171407.851867
+e433171407.867517
+r1
+xCpResource
+x/Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/CloseSelected.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/CloseSelected.png188"[1mCpResource[0m /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseSelected.png[0mec30dacfabd1b941^1021decfabd1b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/CloseSelected.png0034e4a4dfffdf42^1148"[1mCpResource[0m /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/CloseSelected.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/Resources/CloseSelected.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"4585BC79-0176-49B8-BB46-34C674AA3DA5-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource /Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/HelloWorld.png
+s433171407.923523
+e433171407.935946
+r1
+xCpResource
+x/Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/HelloWorld.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/HelloWorld.png182"[1mCpResource[0m /Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/HelloWorld.png[0m49d7eccfabd1b941^1a4ff0cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/HelloWorld.png0034e4a4dfffdf42^1139"[1mCpResource[0m /Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/HelloWorld.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/Resources/HelloWorld.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"F51223AD-105B-4F49-8215-22515233750B-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Default-568h@2x.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default-568h@2x.png
+s433171407.846387
+e433171407.929115
+r1
+xCpResource
+xios/Default-568h@2x.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default-568h@2x.png147"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default-568h@2x.png[0m08e6d8cfabd1b941^ecdbedcfabd1b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Default-568h@2x.png0034e4a4dfffdf42^1116"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default-568h@2x.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Default-568h@2x.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"6B94506C-0A7C-4578-8052-A5698E112A55-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Default.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default.png
+s433171407.936835
+e433171407.945447
+r1
+xCpResource
+xios/Default.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default.png131"[1mCpResource[0m ios/Default.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default.png[0m2d05f0cfabd1b941^200af2cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Default.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Default.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Default.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"ACC1E239-4087-42E4-BB56-09C03C07FF72-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Default@2x.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default@2x.png
+s433171407.820311
+e433171407.935813
+r1
+xCpResource
+xios/Default@2x.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Default@2x.png137"[1mCpResource[0m ios/Default@2x.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default@2x.png[0ma450d2cfabd1b941^2e91efcfabd1b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Default@2x.png0034e4a4dfffdf42^1101"[1mCpResource[0m ios/Default@2x.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Default@2x.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Default@2x.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"7963FDE7-A883-4403-8450-077F8D562DED-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-100.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-100.png
+s433171407.821734
+e433171407.844793
+r1
+xCpResource
+xios/Icon-100.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-100.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-100.png133"[1mCpResource[0m ios/Icon-100.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-100.png[0m8e93d2cfabd1b941^dd45d8cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-100.png0034e4a4dfffdf42^1095"[1mCpResource[0m ios/Icon-100.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-100.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-100.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"C98769DD-83D4-4A85-9C2F-A66C2C55DDED-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-114.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-114.png
+s433171407.868006
+e433171407.923060
+r1
+xCpResource
+xios/Icon-114.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-114.png133"[1mCpResource[0m ios/Icon-114.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-114.png[0m664fdecfabd1b941^4c4feccfabd1b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-114.png0034e4a4dfffdf42^1095"[1mCpResource[0m ios/Icon-114.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-114.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-114.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"02BAECB0-A696-4AFC-86E1-B016AADF9626-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-120.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-120.png
+s433171407.819455
+e433171407.845377
+r1
+xCpResource
+xios/Icon-120.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-120.png133"[1mCpResource[0m ios/Icon-120.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-120.png[0mdb15d2cfabd1b941^f46ad8cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-120.png0034e4a4dfffdf42^1095"[1mCpResource[0m ios/Icon-120.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-120.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-120.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"048FF5EF-6F36-4AAE-A99C-A601E2C4B221-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-144.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-144.png
+s433171407.929387
+e433171407.936014
+r1
+xCpResource
+xios/Icon-144.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-144.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-144.png133"[1mCpResource[0m ios/Icon-144.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-144.png[0m691ceecfabd1b941^2b4bf0cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-144.png0034e4a4dfffdf42^1095"[1mCpResource[0m ios/Icon-144.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-144.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-144.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"FDEF4902-CCA0-4700-B6B7-0D32BB9B2AE5-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-152.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-152.png
+s433171407.846328
+e433171407.849708
+r1
+xCpResource
+xios/Icon-152.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-152.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-152.png133"[1mCpResource[0m ios/Icon-152.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-152.png[0m7fded8cfabd1b941^228ad9cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-152.png0034e4a4dfffdf42^1095"[1mCpResource[0m ios/Icon-152.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-152.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-152.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"F9D51271-5CA4-4BB1-B2DC-9286D1D001CF-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-29.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-29.png
+s433171407.924732
+e433171407.926797
+r1
+xCpResource
+xios/Icon-29.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-29.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-29.png131"[1mCpResource[0m ios/Icon-29.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-29.png[0m4702edcfabd1b941^af43edcfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-29.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-29.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-29.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-29.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"58E3FE6A-6B1F-4185-8015-B756F4CB2838-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-40.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-40.png
+s433171407.927079
+e433171407.929900
+r1
+xCpResource
+xios/Icon-40.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-40.png131"[1mCpResource[0m ios/Icon-40.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-40.png[0m3a79edcfabd1b941^c70eeecfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-40.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-40.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-40.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-40.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"B79FAC07-187E-4DF7-9CFE-2802C3F2D693-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-50.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-50.png
+s433171407.867745
+e433171407.924173
+r1
+xCpResource
+xios/Icon-50.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-50.png131"[1mCpResource[0m ios/Icon-50.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-50.png[0m4144decfabd1b941^7098eccfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-50.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-50.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-50.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-50.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"70AB4A9E-1D81-48A6-A910-12C457F90F60-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-57.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-57.png
+s433171407.936597
+e433171407.944763
+r1
+xCpResource
+xios/Icon-57.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-57.png131"[1mCpResource[0m ios/Icon-57.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-57.png[0m340ff0cfabd1b941^a0ddf1cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-57.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-57.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-57.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-57.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"FD3230E8-9E7F-47D3-AE4B-3E953DDE5DAE-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-58.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-58.png
+s433171407.937546
+e433171407.944965
+r1
+xCpResource
+xios/Icon-58.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-58.png131"[1mCpResource[0m ios/Icon-58.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-58.png[0m7559f0cfabd1b941^8ee9f1cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-58.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-58.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-58.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-58.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"E8223482-42B0-4FA2-8F30-4AC615CECB54-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-72.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-72.png
+s433171407.850003
+e433171407.851638
+r1
+xCpResource
+xios/Icon-72.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-72.png131"[1mCpResource[0m ios/Icon-72.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-72.png[0m31b5d9cfabd1b941^9606dacfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-72.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-72.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-72.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-72.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"8EA2FFC7-5109-40FB-8DEA-1E5957F02CEA-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-76.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-76.png
+s433171407.819879
+e433171407.845068
+r1
+xCpResource
+xios/Icon-76.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-76.png131"[1mCpResource[0m ios/Icon-76.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-76.png[0mc825d2cfabd1b941^0f61d8cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-76.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-76.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-76.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-76.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"164D201D-E061-4D2D-815B-C2811C46ACD5-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CCpResource ios/Icon-80.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-80.png
+s433171407.930188
+e433171407.935995
+r1
+xCpResource
+xios/Icon-80.png
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Icon-80.png131"[1mCpResource[0m ios/Icon-80.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-80.png[0m904deecfabd1b941^b746f0cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app/Icon-80.png0034e4a4dfffdf42^1092"[1mCpResource[0m ios/Icon-80.png [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Icon-80.png[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Icon-80.png /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app36"15DB88B2-0260-4D72-B9A1-5417FA88F40F-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CGenerateDSYMFile /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app.dSYM /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS
+s433171420.274766
+e433171434.597912
+r1
+xGenerateDSYMFile
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app.dSYM
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/todoHelloJumpe iOS
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app.dSYM211"[1mGenerateDSYMFile[0m [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app.dSYM[0m /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS5d6c46dcabd1b941^381199eaabd1b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe%20iOS.app.dSYM0034e4a4dfffdf42^1197"[1mGenerateDSYMFile[0m [1m/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app.dSYM[0m /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS -o /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app.dSYM36"33121632-6324-4750-9F24-21493ADE3011-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CLd /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS normal i386
+s433171412.586234
+e433171420.273745
+r1
+xLd
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/todoHelloJumpe iOS
+xnormal
+xi386
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/todoHelloJumpe iOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/AppController.o
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/RootViewController.o
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/AppDelegate.o
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/main.o
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe iOS.build/Objects-normal/i386/HelloWorldScene.o
+d/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libbox2d iOS.a
+d/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libchipmunk iOS.a
+d/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libcocos2dx iOS.a
+d/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libcocos2dx-extensions iOS.a
+d/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libCocosDenshion iOS.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/todoHelloJumpe iOS119"[1mLd[0m /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS normal i3868a3f96d4abd1b941^f01446dcabd1b941^---0#0#1#--2427"[1mLd[0m /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS normal i386    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios -filelist /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/todoHelloJumpe\ iOS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -stdlib=libc++ -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libbox2d\ iOS.a /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libchipmunk\ iOS.a /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libcocos2dx\ iOS.a /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libcocos2dx-extensions\ iOS.a /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/libCocosDenshion\ iOS.a -framework CoreMotion -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -lz -framework QuartzCore -framework OpenAL -framework AVFoundation -framework AudioToolbox -Xlinker -dependency_info -Xlinker /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/Objects-normal/i386/todoHelloJumpe\ iOS_dependency_info.dat -o /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/todoHelloJumpe\ iOS36"05B7C4EC-EE83-4BE1-A80F-8D49F4A46CA8-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CProcessInfoPlistFile /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Info.plist /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist
+s433171407.770944
+e433171407.818608
+r1
+xProcessInfoPlistFile
+x/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe iOS.app/Info.plist
+x/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Process /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist139"[1mProcessInfoPlistFile[0m /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Info.plist [1mios/Info.plist[0mfd82c5cfabd1b941^2994d1cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist0000000000000000^1189"[1mProcessInfoPlistFile[0m /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Info.plist [1mios/Info.plist[0m    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    builtin-infoPlistUtility /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Info.plist -genpkginfo /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app/Info.plist36"67FBCF44-2FA2-45F5-B598-F12F84E5CBB3-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CProcessPCH /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433171407.947158
+e433171408.483570
+r1
+xProcessPCH
+x/var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch270"[1mProcessPCH[0m /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd9b4f2cfabd1b941^4bcc7bd0abd1b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch0000000000000000^4686"[1mProcessPCH[0m /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios --serialize-diagnostics /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.d -c /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch -o /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-hjdmtemgfhlcszbjebttolkrvhcs/Prefix.pch.pch36"6EA6244E-0D94-45F5-83D5-885D77C694D9-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CProcessPCH++ /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433171407.946687
+e433171407.966494
+r1
+xProcessPCH++
+x/var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch264"[1mProcessPCH++[0m /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerd882f2cfabd1b941^9c6cf7cfabd1b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch0000000000000000^4560"[1mProcessPCH++[0m /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios --serialize-diagnostics /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.d -c /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch -o /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-aasokqzysnxuvfefnmgkelqobkbz/Prefix.pch.pch36"49FF3BB2-3E5B-489B-8E92-47C722A9DBF7-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CProcessPCH++ /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433171407.946331
+e433171408.599523
+r1
+xProcessPCH++
+x/var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch274"[1mProcessPCH++[0m /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilerf660f2cfabd1b941^997e99d0abd1b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch0000000000000000^4817"[1mProcessPCH++[0m /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/hiroki/Documents/android-sdk-macosx/tools:/Users/hiroki/Documents/android-sdk-macosx/platform-tools:/Users/hiroki/Documents/android-sdk-macosx:/Users/hiroki/Documents/android-ndk-r10b:/Users/hiroki/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/hiroki/.nvm/v0.8.4/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/android-sdk-mac_x86/tools:/Users/android-sdk-mac_x86/platform-tools:/Users/android-ndk-r6"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=141 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/todoHelloJumpe\ iOS.hmap -I/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/base -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/physics -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/math -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/2d -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/ui -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/network -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/extensions -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/../cocos2d/cocos/platform/ios/Simulation -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources/i386 -I/Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/build/todoHelloJumpe.build/Debug-iphonesimulator/todoHelloJumpe\ iOS.build/DerivedSources -F/Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios --serialize-diagnostics /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.d -c /Users/hiroki/Documents/todoHelloJumpe/proj.ios_mac/ios/Prefix.pch -o /var/folders/9z/tb4q81x13j5byxmb23n217kr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-cusqjccpvmxjcgcrsvpqpjfckgnk/Prefix.pch.pch36"DCAFA652-F080-4513-B7A6-38C640C32FFB-
+b6442CCC3-6F55-4977-8CFE-4D0E279828C4
+
+CTouch /Users/hiroki/Documents/todoHelloJumpe/bin/debug/ios/todoHelloJumpe\ iOS.app
+r0
+

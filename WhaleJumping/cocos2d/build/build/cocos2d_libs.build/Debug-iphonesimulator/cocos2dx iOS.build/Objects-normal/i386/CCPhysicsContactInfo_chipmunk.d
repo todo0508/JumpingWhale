@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/chipmunk/CCPhysicsContactInfo_chipmunk.cpp \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/physics/chipmunk/CCPhysicsContactInfo_chipmunk.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/chipmunk.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/chipmunk_types.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpVect.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpBB.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpSpatialIndex.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpBody.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpShape.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpPolyShape.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpArbiter.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpConstraint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpPinJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpSlideJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpPivotJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpGrooveJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpDampedSpring.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpRatchetJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpGearJoint.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/constraints/cpSimpleMotor.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../external/chipmunk/include/chipmunk/cpSpace.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h

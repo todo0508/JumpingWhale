@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShaders.cpp \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/renderer/ccShaders.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/platform/ios/CCGL.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Position_uColor.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Position_uColor.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionColor.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionColor.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTexture.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTexture.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureA8Color.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureA8Color.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureColor.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureColor.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureColor_noMVP.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureColor_noMVP.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTextureColorAlphaTest.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTexture_uColor.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionTexture_uColor.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionColorLengthTexture.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_PositionColorLengthTexture.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Label.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Label_df.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Label_df_glow.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Label_normal.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_Label_outline.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_3D_PositionTex.vert \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_3D_Color.frag \
+  /Users/hiroki/Documents/todoHelloJumpe/cocos2d/cocos/renderer/ccShader_3D_ColorTex.frag
